@@ -12,9 +12,9 @@ a{color:var(--accent)}img{max-width:100%;height:auto}
 .wrap{max-width:720px;margin:0 auto;padding:0 16px}
 header.top{border-bottom:1px solid var(--line);background:var(--card)}
 header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px}
-.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-family:Fraunces,Georgia,serif;font-weight:700;font-size:1.25rem}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-family:Fraunces,Georgia,serif;font-weight:700;font-size:1.25rem;white-space:nowrap;flex-shrink:0}
 .brand svg{width:34px;height:34px}
-nav.main a{color:var(--muted);text-decoration:none;margin-left:14px;font-size:.95rem}nav.main a:hover{color:var(--accent)}
+nav.main{display:flex;gap:14px;flex-wrap:nowrap;white-space:nowrap}nav.main a{color:var(--muted);text-decoration:none;font-size:.95rem}nav.main a:hover{color:var(--accent)}
 h1{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:2rem;line-height:1.15;margin:1.6rem 0 .6rem;letter-spacing:-.01em}
 h2{font-family:Fraunces,Georgia,serif;font-size:1.4rem;margin:2rem 0 .6rem;line-height:1.25}
 h3{font-size:1.08rem;margin:1.4rem 0 .4rem}
@@ -46,7 +46,7 @@ ul,ol{padding-left:1.3rem;margin:0 0 1rem}li{margin:.3rem 0}
 footer{border-top:1px solid var(--line);margin-top:3rem;padding:1.6rem 0 2.4rem;color:var(--muted);font-size:.9rem}
 footer a{color:var(--muted)}footer .links a{margin-right:14px}
 .signup{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem 1.1rem;margin:0 0 1.4rem}
-@media (max-width:600px){h1{font-size:1.65rem}.hero-home h1{font-size:1.9rem}nav.main a{margin-left:10px;font-size:.88rem}}
+@media (max-width:600px){h1{font-size:1.65rem}.hero-home h1{font-size:1.9rem}header.top .wrap{flex-wrap:wrap;gap:6px 12px}.brand{font-size:1.1rem}.brand svg{width:28px;height:28px}nav.main{gap:12px;width:100%;justify-content:flex-start}nav.main a{font-size:.9rem}}
 </style><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "7bcefdcbc32640898e4d79b7a1c8fcb9"}'></script></head><body>
 <header class="top"><div class="wrap"><a class="brand" href="/"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#1f2d3d"/><path d="M13 23 c6.5 -4.5 12.5 -4.5 19 0 v23 c-6.5 -4.5 -12.5 -4.5 -19 0z" fill="#faf7f1"/><path d="M32 23 c6.5 -4.5 12.5 -4.5 19 0 v23 c-6.5 -4.5 -12.5 -4.5 -19 0z" fill="#faf7f1" opacity=".88"/><path d="M32 23 v23" stroke="#1f2d3d" stroke-width="1.2" opacity=".35"/><path d="M17.5 30 h9.5 M17.5 35.5 h9.5 M37 30 h9.5 M37 35.5 h9.5" stroke="#0f8b8d" stroke-width="2.2" stroke-linecap="round"/><path d="M29.8 12 h4.4 v13.5 l-2.2 -2.1 l-2.2 2.1z" fill="#e0a458"/><path d="M16 51.5 c3 -2.5 6 -2.5 9 0 s6 2.5 9 0 s6 -2.5 9 0 s4 2 5 2" stroke="#0f8b8d" stroke-width="2" fill="none" stroke-linecap="round" opacity=".9"/></svg>My Cabin Notes</a><nav class="main"><a href="/notes/">All notes</a><a href="/about/">About</a><a href="/go/expert/" rel="sponsored nofollow">Ask an expert</a></nav></div></header>
 <main class="wrap"><h1>About My Cabin Notes</h1><p class="lede">Real answers for cruisers. Practical, specific answers to the questions people ask before and during a cruise, written for travellers in Canada and the United States.</p>
