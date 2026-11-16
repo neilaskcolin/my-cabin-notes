@@ -2,7 +2,7 @@
 """My Cabin Notes static site builder. Run: python3 _tools/build.py  (from the repo root)"""
 import html, json, re, datetime, pathlib, hashlib, shutil, os
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent.parent
 NOTES = ROOT / "_content" / "notes"
 IMG = ROOT / "_content" / "img"
 OUT = ROOT / "site"
