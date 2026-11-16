@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""My Cabin Notes static site builder. Run: python3 _tools/build.py  (from /home/claude/mcn)"""
+"""My Cabin Notes static site builder. Run: python3 _tools/build.py  (from the repo root)"""
 import html, json, re, datetime, pathlib, hashlib, shutil, os
 
 ROOT = Path(__file__).resolve().parent.parent

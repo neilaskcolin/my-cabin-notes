@@ -6,7 +6,8 @@ Usage: python3 sketches.py [--png] [slug ...]
 """
 import re, sys, glob, os, hashlib, math
 
-ROOT = "/home/claude/mcn"
+import os
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ART = f"{ROOT}/_content/notes"
 OUT = f"{ROOT}/_content/img"
 ACCENTS = [("#0f8b8d", "#eef6f4"), ("#1f2d3d", "#eef0f3"), ("#e0a458", "#fbf3e6"), ("#5b7b8f", "#eef2f5")]

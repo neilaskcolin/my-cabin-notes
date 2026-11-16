@@ -1,8 +1,16 @@
 #!/usr/bin/env python3
 import re, sys, os, glob
-N="/home/claude/mcn/_content/notes"; OLD="/home/claude/cqc/_content/articles"
-MAP=[l.split("\t") for l in open("/home/claude/mcn/_tools/block1.tsv").read().splitlines()[1:] if l.strip()]
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+N=f"{ROOT}/_content/notes"; OLD=f"{ROOT}/_reference/old-articles"
+MAP=[l.split("\t") for l in open(f"{ROOT}/_tools/block1.tsv").read().splitlines()[1:] if l.strip()]
 NEW={m[1]:m[0] for m in MAP}
+# every existing note is a valid link target; the old-page mapping also comes from a `source:` front-matter key
+for _f in glob.glob(f"{N}/*.md"):
+    _k=os.path.basename(_f)[:-3]
+    if _k not in NEW:
+        _m=re.search(r"(?m)^source:\s*(\S+)",open(_f,encoding="utf-8").read().split("\n---\n",1)[0])
+        NEW[_k]=_m.group(1) if _m else None
+for _k in ["notes","about","contact","privacy","go/expert"]: NEW.setdefault(_k,None)
 MOTIFS=set("ship iceberg mountains whale sun palm suitcase passport plane money calendar map compass anchor lifering wifi phone cocktail wine food bed family couple group wheelchair medical umbrella snowflake camera binoculars bear train car document checklist clock gift bowtie nosmoke plug shirt bag ticket island lighthouse star".split())
 BAN=["delve","in conclusion","whether you're","it's important to note","navigate the","embark on","look no further","game-changer","seamless","when i sailed","cruisequestionscanada"]
 def words(b):
