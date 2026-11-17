@@ -58,7 +58,7 @@ Some cancellation notices include a goodwill offer to reimburse airline change f
 
 ## Does travel insurance cover a cruise line cancellation?
 
-Only if the policy says so. Look in the trip cancellation section for "default", "cessation of operations" or "cancellation by the travel supplier" as covered reasons. Many policies cover the airline and hotel losses that the cruise refund leaves behind, but some pay nothing if the supplier itself refunds the fare, on the logic that you were made whole. Buy insurance when you pay the deposit, since the supplier-related benefits often require purchase within a set window of the first payment.
+Only if the policy says so. Look in the trip cancellation section for "default", "cessation of operations" or "cancellation by the travel supplier" as covered reasons. Many policies cover the airline and hotel losses that the cruise refund leaves behind, but some pay nothing if the supplier itself refunds the fare, on the logic that you were made whole. Buy insurance when you pay the deposit, since the supplier-related benefits often require purchase within a set window of the first payment. The clauses worth reading before you buy are set out in [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/).
 
 ## What should I do the day the notice arrives?
 
@@ -81,4 +81,4 @@ Plan around that reality: fly in the day before, keep excursions flexible, and t
 
 ## Protecting the next booking
 
-Deposit on a credit card, insurance bought the same week, flexible or cruise line air where the price gap is small, and a hotel on a refundable rate. Then a cancellation becomes a refund and a free rebook, not a lost winter holiday.
+Deposit on a credit card, insurance bought the same week, flexible or cruise line air where the price gap is small, and a hotel on a refundable rate. Then a cancellation becomes a refund and a free rebook, not a lost winter holiday. The reverse case, where you are the one who can no longer sail, is a different story: being refused at the terminal for something like the [24-week pregnancy limit](/pregnant-on-a-cruise-rules-by-line/) counts as your cancellation, with no refund.

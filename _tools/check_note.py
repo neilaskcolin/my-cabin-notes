@@ -34,7 +34,7 @@ def check(slug):
     ms=[m.strip() for m in meta.get("imgmotif","").split(",") if m.strip()]
     if any(m not in MOTIFS for m in ms) or not 2<=len(ms)<=4: pr.append("bad imgmotif")
     w=words(b)
-    if not 750<=w<=1250: pr.append(f"body words {w} (want 750-1200)")
+    if not 750<=w<=1450: pr.append(f"body words {w} (want 750-1400)")
     if b.count("[[EXPERT]]")!=1: pr.append("need exactly one [[EXPERT]]")
     for l in re.findall(r"\]\(/([^)]*)\)",b):
         if l.strip("/") not in NEW: pr.append(f"bad link /{l}")

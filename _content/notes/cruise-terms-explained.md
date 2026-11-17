@@ -64,6 +64,7 @@ Direction matters most on coastal routes. Sailing north to Alaska from Vancouver
 | Onboard account (folio) | Your running tab for drinks, shops, spa and excursions, charged to a card at the end |
 | Cruise card (SeaPass, Sail & Sign, Medallion) | Your room key, ID and payment card in one |
 | OBC (onboard credit) | Money already loaded onto your account by the line, your agent or a promotion |
+| Health questionnaire | The fitness-to-travel form completed before boarding, where you declare illness and pregnancy (the [24-week pregnancy rule](/pregnant-on-a-cruise-rules-by-line/) is checked here) |
 | Gratuities (service charge, crew appreciation) | A daily per-person charge, roughly US$16–25 at recent prices, covering dining and cabin staff |
 | Port fees and taxes | Government and port charges added to the fare, sometimes quoted separately |
 | Guarantee (GTY) cabin | You pick a category, the line assigns the cabin, often late |

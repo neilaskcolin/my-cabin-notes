@@ -18,7 +18,7 @@ If you hold a Canadian passport, you can stop searching: no ESTA, no visa, nothi
 
 ESTA is the Electronic System for Travel Authorization, an online pre-screening that citizens of Visa Waiver Program countries (the UK, most of Europe, Australia, Japan and others) must complete before travelling to the US without a visa. It costs a fee, lasts two years and must be approved before boarding.
 
-Canada was never put in that program because Canadian citizens already had a visa exemption for US visits dating back decades. You simply present your passport. US Customs and Border Protection records the entry electronically, and that is the whole process. The same exemption covers Alaska cruises precleared at Canada Place in Vancouver, Caribbean itineraries that touch the Bahamas, Mexico and the islands, and a Hawaii or Pacific coastal run.
+Canada was never put in that program because Canadian citizens already had a visa exemption for US visits dating back decades. You simply present your passport. US Customs and Border Protection records the entry electronically, and that is the whole process. The same exemption covers Alaska cruises precleared at Canada Place in Vancouver, Caribbean itineraries that touch the Bahamas, Mexico and the islands, and a [Hawaii repositioning cruise from Vancouver](/hawaii-cruise-from-vancouver/) or Pacific coastal run.
 
 > **For Americans:** US citizens do not need an ESTA either, obviously, but the passport advice below applies to you too. A closed-loop cruise technically allows a birth certificate and government ID, yet a passport is the only document that gets you on a flight home from Nassau or Cozumel if you miss the ship.
 

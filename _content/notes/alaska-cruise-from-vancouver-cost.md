@@ -50,7 +50,7 @@ The cheapest route is the SkyTrain. The Expo Line and Canada Line both stop at W
 
 Driving is the expensive option. Pre-booked parking at the terminal costs about C$210–280 for a week at recent rates; off-site lots and hotel park-and-cruise deals are cheaper. Coming from Vancouver Island or the Sunshine Coast, factor in BC Ferries and a generous buffer, because a missed sailing is a missed ship.
 
-> **Watch out:** every port on the itinerary is in the United States, so this is not a domestic trip. MSP and other provincial plans pay a fraction of US hospital bills, and the ship's medical centre charges in US dollars. Buy travel medical insurance and carry a valid passport.
+> **Watch out:** every port on the itinerary is in the United States, so this is not a domestic trip. MSP and other provincial plans pay a fraction of US hospital bills, and the ship's medical centre charges in US dollars. Buy travel medical insurance (what to look for is in [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/)) and carry a valid passport.
 
 ## What Americans should know about sailing from Vancouver
 Vancouver round trips spend more time in the sheltered Inside Passage than Seattle round trips, which head out into open ocean and must stop in Victoria to satisfy US cabotage rules. Many cruisers find the Vancouver route calmer and more scenic. One-way sailings between Vancouver and Whittier or Seward also start or end here, reaching Glacier Bay or Hubbard Glacier and finishing near Anchorage, with a flight home of about US$300–650 (C$400–900) per person.
@@ -75,6 +75,10 @@ The other upgrade is a single memorable excursion: whale watching from Juneau at
 Weighing the cruise against a road trip up the coast or a resort week? [Cruise vs land vacation costs](/cruise-vs-land-vacation-cost/) sets out the comparison, and remember that Alaska runs an hour behind Vancouver, as explained in [cruise ship time zones](/cruise-ship-time-zones/).
 
 [[EXPERT]]
+
+## Cheaper nights from the same pier
+
+The same ships leave Canada Place for Hawaii each fall and return each spring, priced as repositioning voyages. If you have two weeks and like sea days, the [Vancouver to Hawaii cruise](/hawaii-cruise-from-vancouver/) is often better value per night than the Alaska week.
 
 ## The bottom line from Canada Place
 Budget the full table, not the fare. For a Vancouver couple, a shoulder-season inside cabin with one good excursion lands under C$4,000; a peak-season balcony with the works heads toward C$10,000. Everything in between is a choice, and none of it involves an airport.

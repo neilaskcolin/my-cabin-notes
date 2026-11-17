@@ -63,7 +63,7 @@ Medical liquids in reasonable quantities go through cruise terminal security wit
 
 ## Flying with a CPAP, batteries and letters
 
-Cruise lines do not ask for a doctor's letter. Border and airport security occasionally do, so on itineraries that cross borders, a one-paragraph letter stating the device is medically necessary smooths any questions. Keep the machine in its own case, out of your carry-on count, and expect it to be swabbed at airport security.
+Cruise lines do not ask for a doctor's letter for a CPAP, unlike the [letter they expect from pregnant passengers](/pregnant-on-a-cruise-rules-by-line/). Border and airport security occasionally do, so on itineraries that cross borders, a one-paragraph letter stating the device is medically necessary smooths any questions. Keep the machine in its own case, out of your carry-on count, and expect it to be swabbed at airport security.
 
 Batteries are rarely needed on board, because the cabin has power all night. They matter on land tours before or after the cruise, on long-haul flights, and on expedition-style trips. Lithium batteries fly in carry-on only, within the airline's watt-hour limit, usually 100 Wh without approval and up to 160 Wh with it.
 
@@ -71,7 +71,7 @@ If you also need alert equipment, captions or other accommodations, the same acc
 
 ## Travel insurance with sleep apnea
 
-Sleep apnea counts as a pre-existing condition for travel medical insurance in Canada and the US. Declare it. Most insurers cover it easily as long as the condition is stable and no change in treatment has happened within their stability window, often 90 to 180 days for travellers over 60. A policy that was not told about the CPAP is a policy that can decline a related claim.
+Sleep apnea counts as a pre-existing condition for travel medical insurance in Canada and the US. Declare it. Most insurers cover it easily as long as the condition is stable and no change in treatment has happened within their stability window, often 90 to 180 days for travellers over 60. A policy that was not told about the CPAP is a policy that can decline a related claim. What else the policy needs to say, and why your provincial plan will not help, is in [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/).
 
 > **Watch out:** a CPAP that fails mid-cruise cannot be repaired on board. Lines carry no loaners. A travel-sized backup, or at least a complete spare mask and tubing, is the only insurance against a week of bad sleep.
 

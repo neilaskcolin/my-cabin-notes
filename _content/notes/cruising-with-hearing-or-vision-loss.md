@@ -82,7 +82,7 @@ Lines expect guests who need personal care to travel with a companion, since cre
 
 Canada's One Person, One Fare rule means a passenger who needs an attendant may fly the attendant free on domestic flights with the large Canadian carriers, which matters on a Toronto to Vancouver leg for an Alaska cruise. US airlines have no equivalent, though they must provide assistance through the airport.
 
-Declare any hearing or vision condition on your travel medical policy. It rarely raises the premium, but failing to declare it gives an insurer an excuse to decline a claim for anything connected. If you use a CPAP as well, [the CPAP-on-a-cruise checklist](/cpap-on-a-cruise/) covers the extension cord and distilled water requests, which go to the same accessibility team.
+Declare any hearing or vision condition on your travel medical policy, and read the rest of the wording while you are at it; [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/) lists what must be there. Failing to declare a condition gives an insurer an excuse to decline a claim for anything connected. If you use a CPAP as well, [the CPAP-on-a-cruise checklist](/cpap-on-a-cruise/) covers the extension cord and distilled water requests, which go to the same accessibility team.
 
 > **Good to know:** ships run on their own time and change clocks overnight on some itineraries. A vibrating alarm clock or watch set to ship's time saves you from relying on announcements.
 

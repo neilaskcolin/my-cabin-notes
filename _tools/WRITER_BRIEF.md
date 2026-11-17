@@ -11,7 +11,7 @@ You are writing a fresh page on a topic an older site (cruisequestionscanada.com
 - Checker: `python3 /home/claude/mcn/_tools/check_note.py <new_slug> ...` must print OK for every page.
 
 ## Length and depth
-750–1,200 body words. These topics already proved Google wants them, so each page must be the best answer on the web for its question: complete, specific, practical. Never pad.
+750–1,400 body words (over 1,000 when the topic deserves it). These topics already proved Google wants them, so each page must be the best answer on the web for its question: complete, specific, practical. Never pad.
 
 ## Audience
 Canadian AND US cruisers. Prices in USD first (how lines charge on board) with a rough CAD equivalent where useful ("about US$20, roughly C$27–28"). Cover US and Canadian specifics where they differ: home ports (Seattle, Vancouver, Miami, Port Canaveral, Galveston, New York), documents, US CBP vs Canada's CBSA rules, insurance. Some topics are inherently Canadian (CAD vs USD, ESTA for Canadians, Toronto to Miami): keep the Canadian focus but write so a US reader follows.

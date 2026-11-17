@@ -53,7 +53,7 @@ The ship's gentle hour-a-night adjustments are not what leaves people groggy. Th
 - **Vancouver or Calgary to Florida:** two or three hours ahead. A hotel night before sailing is enough, and embarkation morning will feel early.
 - **Toronto or New York to the Mediterranean:** six hours ahead; Vancouver or Los Angeles, nine. Arrive two nights early, get outside in daylight on the first afternoon and skip the long nap.
 - **Transatlantic westbound:** the easiest jet lag in travel. You gain an hour on five or six nights and step off in New York or Florida already adjusted.
-- **Hawaii round trips:** three hours each way spread across sea days, so the body barely notices.
+- **Hawaii round trips:** three hours each way spread across sea days, so the body barely notices. The [Vancouver to Hawaii crossing](/hawaii-cruise-from-vancouver/) is the classic example.
 
 > **Tip:** if you must fly in the day of the cruise, choose a sailing that leaves in the evening and build in the time difference. Flying east to board a ship is where the margin is thinnest, which is one of the reasons [flying from Toronto to a Miami cruise](/toronto-to-miami-cruise/) argues for arriving the day before.
 
