@@ -12,7 +12,7 @@ This brief exists because the previous site, cruisequestionscanada.com, grew to 
 
 ## 1. The rules that are not negotiable
 
-1. **Slow.** Launch with 20 pages. Then add 2 to 3 pages a week, never a batch. No more than ~15 new pages in any month.
+1. **Steady.** Launch with 20 pages. Then two pages a day from the daily task (up to 14 a week). Pace changed from 2–3 a week on 17 Nov 2026 at Neil's request; the editor's advice on record was 5 a week until mid-December.
 2. **Small.** Fewer, deeper pages. 750–1,200 words of real substance each. Nothing under 700.
 3. **Real.** Every page carries first-hand detail where possible: Neil's own cruise photos, what a cabin thermostat actually looks like, a photo of a daily programme, a real receipt with the price blurred. Photos beat sketches. Never invent experiences, quotes, people or statistics.
 4. **Different shapes.** Pages must not share a template. Vary openings, sections, tables, lists, callouts and length. No two pages with the same set of H2s.

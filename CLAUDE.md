@@ -16,7 +16,7 @@ Static cruise Q&A site for Canadian and US cruisers. Editor: Neil. Netlify publi
 
 ## Rules that are not negotiable
 1. Never change a slug or URL after publishing. Never add redirects for content moves; there are none.
-2. New pages: at most ONE per run, never more than 3 in any 7 days, ~15 in a month. Slow is the point.
+2. New pages: TWO per daily run, so up to 14 in any 7 days (Neil's decision, 17 Nov 2026, against the slower pace in BUILD_BRIEF). Never more than two in a run. Quality rules below still apply to every page.
 3. Every page passes `check_note.py --all` and `--structure` (no two pages share headings or shape; <3% 8-word overlap with the old page).
 4. Exactly one `[[EXPERT]]` link per note. No floating buttons, no extra sales copy. Never name the consultant on the site.
 5. Real dates only: `published` is the day it first went live; `updated` only when the body materially changes. No backdating.
