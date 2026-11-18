@@ -67,4 +67,4 @@ Whatever the count, photograph thoughtfully in markets and villages, since the m
 
 ## The pattern that works
 
-Look at the itinerary port by port, name the two or three experiences you would regret missing, book those early, and leave the rest of the week to walking, swimming and a half-empty ship. You will come home with the highlights and the energy to have enjoyed them.
+Look at the itinerary port by port, name the two or three experiences you would regret missing, book those early, and leave the rest of the week to walking, swimming, [a postcard home](/send-postcards-from-cruise-ship/) and a half-empty ship. You will come home with the highlights and the energy to have enjoyed them.

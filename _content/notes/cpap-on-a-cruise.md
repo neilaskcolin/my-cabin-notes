@@ -59,11 +59,11 @@ Humidifier chambers typically use 250–350 millilitres a night, so a week's cru
 
 Medical liquids in reasonable quantities go through cruise terminal security without fuss. On the flight to the port, distilled water over 100 ml must go in checked baggage or be declared as medically necessary at airport security, so most people buy it at a pharmacy near the hotel the night before. In a pinch, bottled water for a night or two will not harm the machine, though it leaves mineral deposits if used for long.
 
-> **Tip:** turn the humidifier off for the cruise if you can tolerate it. Caribbean and Alaska cabin air is far less dry than an airplane or a winter house, and no water means no water to carry.
+> **Tip:** turn the humidifier off for the cruise if you can tolerate it. Caribbean and Alaska cabin air is far less dry than an airplane or a winter house, and no water means no water to carry. If the air feels wrong, it is usually the [cabin temperature](/cruise-cabin-temperature/) rather than the humidity.
 
 ## Flying with a CPAP, batteries and letters
 
-Cruise lines do not ask for a doctor's letter for a CPAP, unlike the [letter they expect from pregnant passengers](/pregnant-on-a-cruise-rules-by-line/). Border and airport security occasionally do, so on itineraries that cross borders, a one-paragraph letter stating the device is medically necessary smooths any questions. Keep the machine in its own case, out of your carry-on count, and expect it to be swabbed at airport security.
+Cruise lines do not ask for a doctor's letter for a CPAP, unlike the [letter they expect from pregnant passengers](/pregnant-on-a-cruise-rules-by-line/), and the machine has no place on the [pre-boarding health questionnaire](/cruise-health-questionnaire/), which asks only about contagious symptoms. Border and airport security occasionally do, so on itineraries that cross borders, a one-paragraph letter stating the device is medically necessary smooths any questions. Keep the machine in its own case, out of your carry-on count, and expect it to be swabbed at airport security.
 
 Batteries are rarely needed on board, because the cabin has power all night. They matter on land tours before or after the cruise, on long-haul flights, and on expedition-style trips. Lithium batteries fly in carry-on only, within the airline's watt-hour limit, usually 100 Wh without approval and up to 160 Wh with it.
 

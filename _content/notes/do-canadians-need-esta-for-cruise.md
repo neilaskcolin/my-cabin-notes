@@ -58,7 +58,7 @@ The US only asks that it be valid for the length of your visit. Cruise lines are
 2. Match every traveller's name on the booking to their passport, including middle names if the line asks for them.
 3. Read the cruise line's travel documents page for your departure port.
 4. For anyone who is not a Canadian or US citizen, look up their US entry requirements today and start the ESTA or visa process.
-5. Complete online check-in with passport numbers as soon as it opens, then screenshot the boarding pass.
+5. Complete online check-in with passport numbers as soon as it opens, then screenshot the boarding pass. Leave the [health questionnaire](/cruise-health-questionnaire/) until its window opens close to sailing day.
 
 For the trip itself, [flying Toronto to Miami for a cruise](/toronto-to-miami-cruise/) covers preclearance timing at Pearson, and if your sailing is ever called off, [what happens when the cruise line cancels](/cruise-cancelled-by-cruise-line/) explains refunds. Since the ship's onboard account will be in US dollars, [paying for a cruise in CAD or USD](/pay-for-cruise-cad-or-usd/) is worth a read too.
 

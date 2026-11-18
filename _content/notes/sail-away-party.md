@@ -18,7 +18,7 @@ Sail-away is the moment the holiday stops being a booking and starts being a tri
 
 Before the party can start, the ship has to complete its safety muster. On most big lines today that means watching a short video in the app or on the cabin TV and then checking in at your assembly station in person. Finish that early and you are free when the deck comes alive.
 
-Then the entertainment team turns the music up around the main pool. There may be a live band, a DJ, line dancing led by the cruise staff, and servers circulating with the day's cocktail in a souvenir glass. As the ship moves off, the captain sounds the horn, often several long blasts, and the pier staff wave back. The whole thing winds down once the ship clears the harbour, typically within an hour.
+Then the entertainment team turns the music up around the main pool. There may be a live band, a DJ, line dancing led by the cruise staff, and servers circulating with the day's cocktail in a souvenir glass. It is also the first moment most people raise a phone to film, so the [etiquette for photographing crew and other guests](/cruise-ship-photo-etiquette/) starts here. As the ship moves off, the captain sounds the horn, often several long blasts, and the pier staff wave back. The whole thing winds down once the ship clears the harbour, typically within an hour.
 
 > **Good to know:** on some ships the first-night party is replaced by a quieter "welcome aboard" deck set because departure is late. Check the daily program for the exact time and venue.
 

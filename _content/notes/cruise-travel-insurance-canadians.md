@@ -80,7 +80,7 @@ Expect a medical questionnaire. Answer it with your prescription list in front o
 
 ## When to buy, and the known-event trap
 
-Buy on the day you pay the deposit. Cancellation cover only responds to things that happen after the policy starts, so a policy bought a month before sailing will not pay if the reason for cancelling began before that date. Some optional benefits, including most cancel-for-any-reason add-ons, must be bought within a short window of the first payment.
+Buy on the day you pay the deposit. Cancellation cover only responds to things that happen after the policy starts, so a policy bought a month before sailing will not pay if the reason for cancelling began before that date. Some optional benefits, including most cancel-for-any-reason add-ons, must be bought within a short window of the first payment. If illness strikes at the last minute, [what to do when you're sick the day before a cruise](/sick-day-before-cruise/) sets out the order of calls that keeps the claim intact.
 
 A named hurricane, an announced strike or a travel advisory already in force is a "known event". Insurance bought after the announcement will not cover it. If the line itself cancels, the rules in [when the cruise line cancels your sailing](/cruise-cancelled-by-cruise-line/) apply instead and you are owed a refund regardless of insurance.
 

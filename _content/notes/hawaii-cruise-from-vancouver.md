@@ -76,7 +76,7 @@ Repositioning voyages are priced to fill, so the per-night fare is often lower t
 
 > **Quick math:** a couple on a round trip skips two return flights to Hawaii. At recent fares of roughly C$600 to 1,000 each for Vancouver to Honolulu return in economy, that is C$1,200 to 2,000 kept in the budget, which is most of the way to a balcony upgrade on a two-week cruise.
 
-Count the extras the same way as any long cruise: gratuities for 14 to 18 nights add up, a drinks package pays off on sea days and rarely on port days, and Wi-Fi across the Pacific is slow and worth buying only for the length you need. The [cruise vs flights-and-hotel comparison](/cruise-vs-land-vacation-cost/) shows how to run the full sum.
+Count the extras the same way as any long cruise: gratuities for 14 to 18 nights add up, a drinks package pays off on sea days and rarely on port days, Wi-Fi across the Pacific is slow and worth buying only for the length you need, and the [onboard duty-free shop](/cruise-ship-duty-free/) is only a bargain if you know your allowance before you buy. The [cruise vs flights-and-hotel comparison](/cruise-vs-land-vacation-cost/) shows how to run the full sum.
 
 ## Documents for Canadians and Americans
 
