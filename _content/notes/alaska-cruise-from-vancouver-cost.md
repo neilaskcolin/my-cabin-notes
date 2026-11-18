@@ -70,6 +70,7 @@ The other upgrade is a single memorable excursion: whale watching from Juneau at
 - Carry on wine within the line's allowance (usually one or two bottles per cabin).
 - Register a credit card with no foreign transaction fee for the onboard account.
 - Skip the drink package unless you average four or more paid drinks a day.
+- Ask about [military, veteran and senior rates](/cruise-military-discounts/) before final payment; they sometimes beat the public sale.
 - Price Seattle as a check, then add the drive, border, US parking and the exchange rate before deciding.
 
 Weighing the cruise against a road trip up the coast or a resort week? [Cruise vs land vacation costs](/cruise-vs-land-vacation-cost/) sets out the comparison, and remember that Alaska runs an hour behind Vancouver, as explained in [cruise ship time zones](/cruise-ship-time-zones/).

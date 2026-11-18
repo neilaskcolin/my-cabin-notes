@@ -64,7 +64,7 @@ Direction matters most on coastal routes. Sailing north to Alaska from Vancouver
 | Onboard account (folio) | Your running tab for drinks, shops, spa and excursions, charged to a card at the end |
 | Cruise card (SeaPass, Sail & Sign, Medallion) | Your room key, ID and payment card in one |
 | OBC (onboard credit) | Money already loaded onto your account by the line, your agent or a promotion |
-| Health questionnaire | The fitness-to-travel form completed before boarding, where you declare illness and pregnancy (the [24-week pregnancy rule](/pregnant-on-a-cruise-rules-by-line/) is checked here) |
+| [Health questionnaire](/cruise-health-questionnaire/) | The fitness-to-travel form completed before boarding, where you declare illness and pregnancy (the [24-week pregnancy rule](/pregnant-on-a-cruise-rules-by-line/) is checked here) |
 | Gratuities (service charge, crew appreciation) | A daily per-person charge, roughly US$16–25 at recent prices, covering dining and cabin staff |
 | Port fees and taxes | Government and port charges added to the fare, sometimes quoted separately |
 | Guarantee (GTY) cabin | You pick a category, the line assigns the cabin, often late |
@@ -80,7 +80,7 @@ The onboard account on ships sailing from North America is nearly always in US d
 ## Daily life words
 
 - **Daily program (Cruise Compass, Fun Times, Freestyle Daily, Patter):** the schedule delivered to your cabin or app each evening.
-- **Specialty restaurant:** an extra-fee venue, as opposed to the included main dining room and buffet.
+- **Specialty restaurant:** an extra-fee venue, as opposed to the included main dining room and buffet. A party of eight or more should read [how large groups are seated on a cruise](/large-group-dining-on-a-cruise/) before booking one.
 - **Formal night (elegant or chic night):** one or two evenings when the dining room dress code steps up. Jackets are rarely compulsory now.
 - **Sail-away:** the departure party on deck as the ship leaves port. [What happens at sail-away](/sail-away-party/) has the details.
 - **Cabin steward (stateroom attendant):** the crew member who cleans your room, usually once or twice daily.
