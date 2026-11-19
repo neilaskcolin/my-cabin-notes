@@ -30,7 +30,7 @@ Whatever the style, allow 30 to 60 minutes before judging the result. Cabins hol
 ## Why is my cruise cabin so hot?
 Match what you notice to the usual cause:
 
-- **Warm all afternoon, fine at night.** Sun on the balcony glass. Close the curtains while you are out.
+- **Warm all afternoon, fine at night.** Sun on the balcony glass. Close the curtains while you are out. (Alaska balconies have the opposite problem; the [Alaska cabin guide](/best-cabin-and-side-for-alaska-cruise/) covers which deck stays comfortable.)
 - **Cooling stops when you open the balcony door.** A door sensor cuts the air conditioning. Shut it fully and cooling resumes within minutes.
 - **Barely any air from the ceiling.** Vent louvres closed, or blocked by luggage on the shelf. Open the vent and move the bags.
 - **Humid, stale air every morning.** The balcony door was left ajar overnight. Keep it closed while sleeping.

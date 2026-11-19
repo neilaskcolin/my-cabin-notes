@@ -82,7 +82,7 @@ Count the extras the same way as any long cruise: gratuities for 14 to 18 nights
 
 Hawaii is the United States, so the usual US entry rules apply at sea.
 
-Canadians need a valid passport, and Canadian citizens do not need an ESTA for arrival by cruise ship; the details are in [ESTA and documents for Canadians sailing from US ports](/do-canadians-need-esta-for-cruise/). US formalities are handled either at the Vancouver terminal before boarding or on arrival in Hawaii, depending on the sailing.
+Canadians need a valid passport, exactly as on an [Alaska sailing from the same terminal](/passport-for-alaska-cruise-from-vancouver/), and Canadian citizens do not need an ESTA for arrival by cruise ship; the details are in [ESTA and documents for Canadians sailing from US ports](/do-canadians-need-esta-for-cruise/). US formalities are handled either at the Vancouver terminal before boarding or on arrival in Hawaii, depending on the sailing.
 
 Americans need a passport to enter Canada for the departure and to re-enter the US by sea. A passport card is accepted for land and sea travel between Canada and the US, but a full passport book is the safe choice if a medical flight home ever became necessary. Anyone staying on a ship that continues to Australia or the South Pacific should check the passport is valid for six months beyond the trip.
 

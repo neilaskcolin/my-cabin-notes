@@ -25,6 +25,7 @@ Canada was never put in that program because Canadian citizens already had a vis
 ## Which document does each traveller need?
 
 - **Canadian citizen flying to the port:** a valid Canadian passport book. Nothing else.
+- **Canadian citizen sailing from Vancouver:** the same passport, because US preclearance happens in the terminal; the [Alaska-from-Vancouver passport note](/passport-for-alaska-cruise-from-vancouver/) covers NEXUS and children.
 - **Canadian citizen driving to Seattle or another US port:** the passport book is the safe choice. A few lines accept an enhanced driver's licence or NEXUS card at land crossings, but check your line before you rely on it.
 - **Canadian child, any age:** their own passport if flying. Some lines accept a birth certificate on some sailings, but the airline will not.
 - **Permanent resident of Canada:** the passport of their citizenship country, their PR card, and an ESTA or US visa if that nationality needs one.

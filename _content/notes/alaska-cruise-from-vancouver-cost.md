@@ -50,7 +50,7 @@ The cheapest route is the SkyTrain. The Expo Line and Canada Line both stop at W
 
 Driving is the expensive option. Pre-booked parking at the terminal costs about C$210–280 for a week at recent rates; off-site lots and hotel park-and-cruise deals are cheaper. Coming from Vancouver Island or the Sunshine Coast, factor in BC Ferries and a generous buffer, because a missed sailing is a missed ship.
 
-> **Watch out:** every port on the itinerary is in the United States, so this is not a domestic trip. MSP and other provincial plans pay a fraction of US hospital bills, and the ship's medical centre charges in US dollars. Buy travel medical insurance (what to look for is in [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/)) and carry a valid passport.
+> **Watch out:** every port on the itinerary is in the United States, so this is not a domestic trip. MSP and other provincial plans pay a fraction of US hospital bills, and the ship's medical centre charges in US dollars. Buy travel medical insurance (what to look for is in [cruise travel insurance for Canadians](/cruise-travel-insurance-canadians/)) and carry a valid passport; [what counts as valid, and what NEXUS and birth certificates can and cannot do](/passport-for-alaska-cruise-from-vancouver/) is its own note.
 
 ## What Americans should know about sailing from Vancouver
 Vancouver round trips spend more time in the sheltered Inside Passage than Seattle round trips, which head out into open ocean and must stop in Victoria to satisfy US cabotage rules. Many cruisers find the Vancouver route calmer and more scenic. One-way sailings between Vancouver and Whittier or Seward also start or end here, reaching Glacier Bay or Hubbard Glacier and finishing near Anchorage, with a flight home of about US$300–650 (C$400–900) per person.
@@ -60,7 +60,7 @@ Vancouver round trips spend more time in the sheltered Inside Passage than Seatt
 ## Where the money should go
 With no flights to pay for, local couples tend to upgrade in one of two places.
 
-The balcony premium of roughly US$950–1,800 per couple (C$1,300–2,500) is easier to swallow when nothing else is added to the fare. Alaska rewards it more than any Caribbean itinerary.
+The balcony premium of roughly US$950–1,800 per couple (C$1,300–2,500) is easier to swallow when nothing else is added to the fare. Alaska rewards it more than any Caribbean itinerary, provided you pick the right one: [which side, deck and cabin number](/best-cabin-and-side-for-alaska-cruise/) decides whether the premium buys a glacier or the roof of a lifeboat.
 
 The other upgrade is a single memorable excursion: whale watching from Juneau at about US$150–250 per person, or glacier flightseeing from US$400. Walk Ketchikan and Skagway on your own to pay for it. [How many shore excursions to book](/how-many-shore-excursions/) explains why one or two is plenty.
 
