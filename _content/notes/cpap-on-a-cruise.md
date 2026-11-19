@@ -1,7 +1,7 @@
-title: Taking a CPAP on a Cruise: Cords, Water and Who to Tell
+title: Can You Take a CPAP on a Cruise? Cords, Water, Who to Tell
 slug: cpap-on-a-cruise
 category: planning
-description: CPAP machines are allowed on every major cruise line for free. The extension cord rule by line, getting distilled water, outlets, flying and insurance.
+description: Yes, you can bring a CPAP on a cruise: every major line allows it free. The extension cord rule by line, distilled water, outlets, flying and insurance.
 answer: Yes, every major line allows CPAP, BiPAP and APAP machines at no cost and without a doctor's letter. Tell the line's accessibility desk after booking, request the ship's approved extension cord (Carnival lets you bring a plain cord of your own), arrange distilled water and pack a first-night supply, and carry the machine on board in your hand luggage.
 faq1q: Will security confiscate my CPAP extension cord at the cruise terminal?
 faq1a: On most lines, yes, if you bring your own. Guest extension cords, power strips and anything with a surge protector are banned for fire safety; the ship lends an approved medical cord on request. Carnival is the exception and allows a plain cord or power strip with no surge protection.
