@@ -59,7 +59,7 @@ The deck directly under the pool deck or the buffet: chairs scraping at dawn, ex
 
 ### Midship, forward or aft
 
-Midship moves least, which only matters for someone who is motion-sensitive; the Inside Passage is sheltered water and the one open stretch, the Gulf of Alaska on one-way sailings, is a single night. Forward cabins get the most wind on scenic days and some lines lock the forward balcony doors in weather. Aft cabins are the quiet secret of Alaska: a deeper balcony, both shores in view, and the wake stretching back down the channel you have just come through. Photographers book them first.
+Midship moves least, which only matters for someone who is motion-sensitive or for [a child who gets carsick](/kids-seasickness-on-a-cruise/); the Inside Passage is sheltered water and the one open stretch, the Gulf of Alaska on one-way sailings, is a single night. Forward cabins get the most wind on scenic days and some lines lock the forward balcony doors in weather. Aft cabins are the quiet secret of Alaska: a deeper balcony, both shores in view, and the wake stretching back down the channel you have just come through. Photographers book them first, partly because a private rail spares them the [jostling and photo manners](/cruise-ship-photo-etiquette/) of the open decks on glacier day.
 
 ## The obstructed-view trap
 

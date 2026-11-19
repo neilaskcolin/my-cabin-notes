@@ -58,7 +58,7 @@ The ship's gentle hour-a-night adjustments are not what leaves people groggy. Th
 > **Tip:** if you must fly in the day of the cruise, choose a sailing that leaves in the evening and build in the time difference. Flying east to board a ship is where the margin is thinnest, which is one of the reasons [flying from Toronto to a Miami cruise](/toronto-to-miami-cruise/) argues for arriving the day before.
 
 ## Keeping in touch with home across the zones
-Each clock change shifts the gap between you and the people at home, which matters for calls to kids, elderly parents or an office. Note the new difference each time the program announces a change, and remember that friends at home on daylight saving may have changed their own clocks mid-cruise in March or November.
+Each clock change shifts the gap between you and the people at home, which matters for calls to kids, elderly parents or an office. Note the new difference each time the program announces a change, and remember that friends at home on daylight saving may have changed their own clocks mid-cruise in March or November. For the relatives who would rather have something in the mailbox than a call, [posting a card from the ship or a port](/send-postcards-from-cruise-ship/) is slower but lands better.
 
 [[EXPERT]]
 
