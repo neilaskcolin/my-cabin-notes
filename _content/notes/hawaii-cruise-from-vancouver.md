@@ -48,7 +48,7 @@ Leaving Vancouver in October, the first day or two are cool and often grey. The 
 
 ### Motion
 
-The North Pacific is open ocean, and late-fall crossings can be lively. If you are prone to seasickness, book a midship cabin on a low deck, where [a noisy cabin](/noisy-cruise-cabin/) is less likely too, and bring whatever remedy works for you. Spring crossings are generally calmer than October ones.
+The North Pacific is open ocean, and late-fall crossings can be lively. If you are prone to seasickness, book a midship cabin on a low deck, where [a noisy cabin](/noisy-cruise-cabin/) is less likely too, and bring whatever remedy works for you. Children feel open water too; our note on [kids and seasickness on a cruise](/kids-seasickness-on-a-cruise/) covers remedies by age. Spring crossings are generally calmer than October ones.
 
 ### Clocks
 

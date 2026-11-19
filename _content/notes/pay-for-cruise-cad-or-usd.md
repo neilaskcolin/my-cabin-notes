@@ -31,7 +31,7 @@ That cushion is why a CAD fare can be above, or below, what your own bank would 
 ### What a CAD booking buys you besides price
 A Canadian-dollar booking locks the exchange rate on the day you book. Pay a deposit now and the balance in four months, and the balance costs exactly what the confirmation says. A USD booking converts each payment at that day's rate, so a weaker loonie by final payment can add a few percent to a fare you thought was settled.
 
-For anyone budgeting a trip to the dollar, that certainty can matter more than a small saving. The same logic applies to prepaying gratuities and drink packages in CAD where the line allows it.
+For anyone budgeting a trip to the dollar, that certainty can matter more than a small saving. The same logic applies to prepaying gratuities and drink packages in CAD where the line allows it, and to [a group block of eight or more cabins](/group-cruise-booking-8-cabins/), which is held in one currency for everyone who books into it.
 
 ## What happens to the onboard account
 Here the choice is made for you. The major lines settle shipboard spending in US dollars for every passenger, Canadian or not. Alaska round trips from Vancouver, Caribbean sailings from Florida, Mexico from California: all USD on board. A handful of European itineraries use euros instead.

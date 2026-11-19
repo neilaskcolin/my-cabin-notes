@@ -39,7 +39,7 @@ Fixed seating wins because the waiters learn the allergies, the kids' names and 
 
 ## When and how do I book group dining?
 
-As soon as the group block exists. Large tables are allocated first come, first served, and early seating fills months before sailing on holiday weeks.
+As soon as the group block exists; [how a block forms and what eight cabins unlock](/group-cruise-booking-8-cabins/) is its own note. Large tables are allocated first come, first served, and early seating fills months before sailing on holiday weeks.
 
 1. **Pick a seating time.** Early (around 5:30–6 pm) suits children and grandparents; late (around 8–8:30 pm) suits adults who want full port days. Times vary by ship.
 2. **Link every booking number.** Include anyone who booked before the group was formed. Unlinked cabins are the usual reason someone ends up at a table of strangers.

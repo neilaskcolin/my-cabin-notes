@@ -55,7 +55,7 @@ Police, firefighters and paramedics have fewer options. Margaritaville at Sea's 
 Senior discounts are rarer still. Unlike hotels, cruise lines do not maintain permanent over-55 or over-65 rates. Senior fares appear as short promotions on selected sailings and seldom beat the best public price. Retirees usually save more through flexible dates and shoulder-season sailings than through any age-based rate.
 
 ## Can you stack a military discount with other promotions?
-Usually not fully. A military fare is a rate in its own right, so you pick it or the public promotion, not both. Credit-based programs like Princess's have a better chance of sitting alongside a sale, because the fare itself is untouched.
+Usually not fully. A military fare is a rate in its own right, so you pick it or the public promotion, not both. Credit-based programs like Princess's have a better chance of sitting alongside a sale, because the fare itself is untouched. The same either-or usually applies to a [group rate on a block of eight cabins](/group-cruise-booking-8-cabins/), so a veteran travelling with a reunion should price both.
 
 1. Price your cabin at the public promotional rate, all taxes and fees in.
 2. Price the same cabin at the military rate, or add the onboard credit value to the public fare.

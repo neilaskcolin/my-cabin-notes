@@ -60,7 +60,7 @@ A yes starts a process, not a penalty. Here is what it usually looks like at a U
 3. They decide one of three things: you board normally; you board and are asked to stay in your cabin until you have been symptom-free for a set period, often 24 to 48 hours; or you are refused boarding for this sailing.
 4. If you are refused, the line records it as a cancellation on the day. Port taxes and prepaid items come back to you, the fare does not, and your travel insurance becomes the route to recovering it.
 
-Symptoms that finished two days ago usually land in the first group. Active vomiting at the terminal lands in the third.
+Symptoms that finished two days ago usually land in the first group. Active vomiting at the terminal lands in the third, which is why a child who gets carsick on the drive to the port should have had their [children's motion sickness remedy](/kids-seasickness-on-a-cruise/) before the taxi, not after.
 
 > **Watch out:** the medical team can also ask you to see them at a set time once on board, and a passenger who then reports to the medical centre with a stomach bug is normally confined to the cabin for a day or two. Room service is included during isolation on most lines, but the pool deck is not.
 
