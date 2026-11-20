@@ -55,7 +55,7 @@ Check the page for your exact sailing after booking and again a month before, be
 
 ## The reason everyone recommends the passport anyway
 
-Imagine the three things that go wrong on an Alaska cruise: you miss the ship in Juneau, someone is taken ill and has to leave in Ketchikan, or a mechanical problem ends the cruise early. In every case you are getting home from Alaska by air, almost always through Seattle. A NEXUS card, a birth certificate or a passport card does not get you on that flight, and neither does an enhanced licence. A passport does. That is the whole argument, and it is why the border officers, the lines and every consultant say the same thing.
+Imagine the three things that go wrong on an Alaska cruise: you miss the ship in Juneau, someone is taken ill and has to leave in Ketchikan, or a mechanical problem ends the cruise early. In every case you are getting home from Alaska by air, almost always through Seattle. A NEXUS card, a birth certificate or a passport card does not get you on that flight, and neither does an enhanced licence. A passport does. That is the whole argument, and it is why the border officers, the lines and every consultant say the same thing. If your cruise ends in Whittier, [when to book flights for a 2027 Alaska cruise](/when-to-book-flights-alaska-cruise-2027/) covers that flight home too.
 
 > **Watch out:** a passport that expires during the cruise is not valid for the cruise. Check every passport in the party the day you book, and treat anything inside six months of expiry as needing renewal, because some lines enforce six months whatever the US rule says.
 

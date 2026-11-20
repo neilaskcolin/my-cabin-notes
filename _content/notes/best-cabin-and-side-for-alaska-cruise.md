@@ -77,7 +77,7 @@ The fix takes ten minutes:
 
 ### Booking timing for the good cabins
 
-Aft balconies, corner suites and the unobstructed mid-deck cabins go first on Alaska sailings, and July and August fill fastest because Canadian and US school holidays line up. If you want a specific cabin, book when the season opens, usually 12 to 18 months ahead, and take a refundable deposit so a change of plan costs nothing. Booking late means taking whatever is left, which on a peak sailing tends to be the cabins above the lifeboats.
+Aft balconies, corner suites and the unobstructed mid-deck cabins go first on Alaska sailings, and July and August fill fastest because Canadian and US school holidays line up. Flights are the opposite: they rarely sell out and are cheapest later, so lock the cabin first and read [when to book flights for a 2027 Alaska cruise](/when-to-book-flights-alaska-cruise-2027/) for the timing. If you want a specific cabin, book when the season opens, usually 12 to 18 months ahead, and take a refundable deposit so a change of plan costs nothing. Booking late means taking whatever is left, which on a peak sailing tends to be the cabins above the lifeboats.
 
 If you are deciding between a Vancouver departure and a Seattle one, the [passport question](/passport-for-alaska-cruise-from-vancouver/) and the [ESTA rules](/do-canadians-need-esta-for-cruise/) can tip it, and the same ships sail [from Vancouver to Hawaii](/hawaii-cruise-from-vancouver/) in the shoulder seasons if the cabin you want is gone.
 

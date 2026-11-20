@@ -51,7 +51,7 @@ Only on eastbound nights, and only an hour at a time. Most lines schedule the ch
 The ship's gentle hour-a-night adjustments are not what leaves people groggy. The flight to the port does that.
 
 - **Vancouver or Calgary to Florida:** two or three hours ahead. A hotel night before sailing is enough, and embarkation morning will feel early.
-- **Toronto or New York to the Mediterranean:** six hours ahead; Vancouver or Los Angeles, nine. Arrive two nights early, get outside in daylight on the first afternoon and skip the long nap.
+- **Toronto or New York to the Mediterranean:** six hours ahead; Vancouver or Los Angeles, nine. Arrive two nights early, get outside in daylight on the first afternoon and skip the long nap. The same applies to [a Norwegian fjords cruise from Canada](/norway-fjords-cruise-cost-from-canada/), where Southampton or Amsterdam is the start line.
 - **Transatlantic westbound:** the easiest jet lag in travel. You gain an hour on five or six nights and step off in New York or Florida already adjusted.
 - **Hawaii round trips:** three hours each way spread across sea days, so the body barely notices. The [Vancouver to Hawaii crossing](/hawaii-cruise-from-vancouver/) is the classic example.
 

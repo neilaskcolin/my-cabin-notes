@@ -32,7 +32,7 @@ The order matters because insurers want evidence from the time you were ill, and
 1. **A doctor, today.** A walk-in clinic, a virtual visit or your own GP all work. Ask for a note that states the diagnosis, the date, and that you are unfit to travel on your sailing dates. Keep the receipt.
 2. **Your insurer's assistance line.** The number is on your policy card. Ask what paperwork they need, whether they want to speak to the doctor, and how soon the claim must be filed. Write down the claim reference.
 3. **The cruise line or your agent.** Cancel the cruise and ask for written confirmation showing the date, the penalty charged and what is being refunded. If you booked through a consultant, one call to them handles the line, the air and the hotel together.
-4. **Airline and hotel, if you booked them yourself.** Air bought through the cruise line usually cancels with the cruise. Flights you booked directly need their own call and may only give a credit.
+4. **Airline and hotel, if you booked them yourself.** Air bought through the cruise line usually cancels with the cruise. Flights you booked directly need their own call and may only give a credit, which is one argument for matching the flight's flexibility to the cruise deposit when you decide [when to book flights for a cruise](/when-to-book-flights-alaska-cruise-2027/).
 5. **Pre-booked extras.** Independent shore tours, parking and transfers each have their own rules, and many refund in full inside their own cut-off.
 
 Keep the doctor's note, every confirmation email, the booking invoice and every receipt in one folder on your phone. Claims are paid on paper, not on sympathy.
