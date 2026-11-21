@@ -56,7 +56,7 @@ Baggage cover and cabin-confinement payments are nice extras. They are not reaso
 
 Many experienced Canadian cruisers buy a strong medical policy from a Canadian insurer and treat the cruise line's plan as optional. The cruise line plan is good at one thing, letting you cancel late, and weak at the thing that can cost six figures.
 
-> **Watch out:** a card with a 15-day medical limit stops on day 15. A 14-night cruise plus a night in a Vancouver hotel before it is 16 days away from home. Count the whole trip, not the cruise.
+> **Watch out:** a card with a 15-day medical limit stops on day 15. A 14-night cruise plus a night in a Vancouver hotel before it is 16 days away from home. Count the whole trip, not the cruise; a [Panama Canal transit](/panama-canal-cruise-cost-from-canada/) of 15 to 20 nights is over the limit before you add the flights.
 
 ## How much cruise insurance costs in Canada
 

@@ -66,7 +66,7 @@ Points are richest when a block opens early, often within weeks of the sailing g
 
 ## How does a group block actually work?
 
-One person, or one travel agency, asks the line's group desk to hold a set of cabins at a group rate. That hold is the block. Each family books into it, picks its own cabin category and pays its own deposit and balance. Mixing insides, balconies and a suite is normal. Recent terms:
+One person, or one travel agency, asks the line's group desk to hold a set of cabins at a group rate. That hold is the block. Each family books into it, picks its own cabin category and pays its own deposit and balance. Mixing insides, balconies and a suite is normal, and families weighing [two connecting cabins against one suite](/two-cabins-or-one-suite-on-a-cruise/) can hold both options in the block until they decide. Recent terms:
 
 - **Royal Caribbean:** no group deposit for blocks up to 16 cabins; larger blocks pay US$50 a cabin within 30 days of opening.
 - **Carnival:** US$25 a person within 60 days of opening, with the block held until second deposits are due, roughly four to five months before sailing.

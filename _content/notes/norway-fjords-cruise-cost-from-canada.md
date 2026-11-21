@@ -95,7 +95,7 @@ Pulpit Rock (Preikestolen) from Stavanger is a tougher call: a four-hour round-t
 
 > **Watch out:** Norwegian tour websites price in kroner. Convert properly and add the transfer from the pier before comparing with the ship's dollar price.
 
-## Will the new fjord emission rules change your itinerary?
+### Will the new fjord emission rules change your itinerary?
 
 Norway has brought in zero-emission requirements for passenger ships in its World Heritage fjords, which include Geirangerfjord, Nærøyfjord and Aurlandsfjord. From January 2026 the rule applies to ships under 10,000 gross tons; larger ships have until 1 January 2032. So the big mainstream ships can still sail into Geiranger and Flåm for the next few seasons, while small coastal and expedition vessels switch first. Some lines have moved calls to nearby ports such as Hellesylt or Eidfjord, so read the itinerary rather than assuming "Norwegian fjords" means Geiranger.
 
