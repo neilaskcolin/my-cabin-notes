@@ -72,7 +72,7 @@ Round trips drop one island or shorten the overnight to fit the return crossing.
 
 ## What it costs compared with flying
 
-Repositioning voyages are priced to fill, so the per-night fare is often lower than the same ship's summer Alaska rate, and balconies on a warm-weather route can be good value.
+Repositioning voyages are priced to fill, so the per-night fare is often lower than the same ship's summer Alaska rate, and balconies on a warm-weather route can be good value. The same logic applies to the other way these ships reach Vancouver in spring, [a Panama Canal transit from Fort Lauderdale](/panama-canal-cruise-cost-from-canada/).
 
 > **Quick math:** a couple on a round trip skips two return flights to Hawaii. At recent fares of roughly C$600 to 1,000 each for Vancouver to Honolulu return in economy, that is C$1,200 to 2,000 kept in the budget, which is most of the way to a balcony upgrade on a two-week cruise.
 

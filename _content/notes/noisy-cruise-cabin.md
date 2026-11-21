@@ -64,7 +64,7 @@ When something is offered, it is typically onboard credit in the range of a mode
 ## How to avoid a noisy cabin on your next cruise
 Prevention is cheaper than any complaint. Before booking, look at the deck plan and check the deck directly above, directly below and both sides. The quietest spots are cabins surrounded by other cabins, midship, away from lifts, stairwells and the blank spaces on the plan that mark crew areas and machinery. On a scenic route the same ten minutes with the deck plan also saves you from a blocked view; the [Alaska cabin and deck guide](/best-cabin-and-side-for-alaska-cruise/) shows what to look for.
 
-> **Watch out:** guarantee fares let the line choose your cabin, which is exactly how light sleepers end up under the jogging track. Pay the small premium to pick a specific cabin if sleep matters to you. Think twice about a connecting cabin next to strangers, too, since the shared door transmits far more sound than a wall.
+> **Watch out:** guarantee fares let the line choose your cabin, which is exactly how light sleepers end up under the jogging track. Pay the small premium to pick a specific cabin if sleep matters to you. Think twice about a connecting cabin next to strangers, too, since the shared door transmits far more sound than a wall; the pair only makes sense when your own family is on the other side, as the note on [two connecting cabins or one suite](/two-cabins-or-one-suite-on-a-cruise/) explains.
 
 If deck-plan terms such as "midship", "forward" and "tender platform" are new to you, [cruise terms explained](/cruise-terms-explained/) covers them.
 

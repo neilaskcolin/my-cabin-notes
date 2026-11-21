@@ -79,7 +79,7 @@ Weighing the cruise against a road trip up the coast or a resort week? [Cruise v
 
 ## Cheaper nights from the same pier
 
-The same ships leave Canada Place for Hawaii each fall and return each spring, priced as repositioning voyages. If you have two weeks and like sea days, the [Vancouver to Hawaii cruise](/hawaii-cruise-from-vancouver/) is often better value per night than the Alaska week.
+The same ships leave Canada Place for Hawaii each fall and return each spring, priced as repositioning voyages. If you have two weeks and like sea days, the [Vancouver to Hawaii cruise](/hawaii-cruise-from-vancouver/) is often better value per night than the Alaska week, and in April and October the longer [Panama Canal transits that start or end in Vancouver](/panama-canal-cruise-cost-from-canada/) are priced the same way.
 
 ## The bottom line from Canada Place
 Budget the full table, not the fare. For a Vancouver couple, a shoulder-season inside cabin with one good excursion lands under C$4,000; a peak-season balcony with the works heads toward C$10,000. Everything in between is a choice, and none of it involves an airport.
