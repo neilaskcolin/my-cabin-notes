@@ -36,7 +36,7 @@ Lines that summer in Alaska run these, with Princess and Holland America the mos
 | Suits | People with two weeks who want some islands and one crossing | Sea-day lovers with three weeks, and anyone who hates flying |
 | Watch for | Booking the one-way flight early; prices climb | Time off work and the second crossing's weather |
 
-A one-way fall voyage is the most common. You sail out of Vancouver in October, land in Honolulu about eleven days later, and fly home from there. Air Canada and WestJet fly nonstop Honolulu to Vancouver, with seasonal nonstops to Calgary, Edmonton and Toronto, and Alaska, Hawaiian and United cover US cities.
+A one-way fall voyage is the most common. You sail out of Vancouver in October, land in Honolulu about eleven days later, and fly home from there. Air Canada and WestJet fly nonstop Honolulu to Vancouver, with seasonal nonstops to Calgary, Edmonton and Toronto, and Alaska, Hawaiian and United cover US cities. For the outbound leg, Albertans can follow [the cheapest route from Edmonton to Canada Place](/edmonton-to-vancouver-cruise-port/).
 
 ## What five sea days across the Pacific are really like
 
