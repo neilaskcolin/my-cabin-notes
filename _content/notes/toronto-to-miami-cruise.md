@@ -30,7 +30,7 @@ Montreal and Ottawa travellers can connect through Toronto, but a nonstop from T
 
 ## Fly in the day before
 
-Winter storms close Pearson runways, de-icing queues run long, and a cruise ship does not wait for a delayed flight. Landing the afternoon or evening before sailing turns a missed connection from a disaster into an inconvenience. It also means you walk onto the ship rested rather than straight from a 6 am alarm, and it buys a day's grace if someone [wakes up unwell the day before the cruise](/sick-day-before-cruise/).
+Winter storms close Pearson runways, de-icing queues run long, and a cruise ship does not wait for a delayed flight. Landing the afternoon or evening before sailing turns a missed connection from a disaster into an inconvenience. It also means you walk onto the ship rested rather than straight from a 6 am alarm, and it buys a day's grace if someone [wakes up unwell the day before the cruise](/sick-day-before-cruise/). The same rule holds out west, where [getting from Edmonton to the Vancouver cruise port](/edmonton-to-vancouver-cruise-port/) is a 90-minute flight that still deserves a day-before arrival.
 
 > **For Canadians:** US preclearance at Pearson means the immigration hall at MIA, which has a reputation for long queues, is not your problem. You arrive as a domestic passenger and head straight to baggage claim. The trade is a longer wait in Toronto, so arrive at Pearson at least three hours before a winter morning departure.
 

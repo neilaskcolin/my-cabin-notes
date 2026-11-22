@@ -59,7 +59,7 @@ In Alaska, Hawaii and US Caribbean ports such as St. Thomas and San Juan, yes, i
 For what you bring back, including the C$800 allowance after 48 hours, see [cruise ship duty-free rules](/cruise-ship-duty-free/).
 
 ## Should you wait for a better exchange rate before booking?
-Nobody reliably predicts the loonie, and cruise fares tend to rise as the sailing date nears. If a CAD fare fits your budget today, booking it removes the exchange risk entirely. If you have a no-fee card and a flexible budget, booking in USD lets you benefit if the dollar strengthens, at the cost of some uncertainty.
+Nobody reliably predicts the loonie, and cruise fares tend to rise as the sailing date nears. If a CAD fare fits your budget today, booking it removes the exchange risk entirely. If you have a no-fee card and a flexible budget, booking in USD lets you benefit if the dollar strengthens, at the cost of some uncertainty. What a swing actually costs, payment by payment, is worked through in [how the exchange rate changes your cruise cost](/cad-exchange-rate-cruise-cost/).
 
 Either way, the fare is only part of the bill. A full Alaska budget, including gratuities and excursions in Canadian terms, is worked through in [what an Alaska cruise from Vancouver really costs](/alaska-cruise-from-vancouver-cost/), and the broader value question is in [cruise vs land vacation costs](/cruise-vs-land-vacation-cost/).
 
