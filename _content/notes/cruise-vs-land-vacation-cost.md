@@ -73,7 +73,7 @@ Both sides forget the same thing: travel medical insurance. Provincial plans in 
 ## How to run the comparison for your own trip
 1. Pick identical dates and a comparable standard of room.
 2. List every line from the table above for both options, with honest ranges.
-3. Convert everything to one currency at your card's real rate. Canadians should read [whether to pay in CAD or USD](/pay-for-cruise-cad-or-usd/) first.
+3. Convert everything to one currency at your card's real rate. Canadians should read [whether to pay in CAD or USD](/pay-for-cruise-cad-or-usd/) first, and [how exchange rate swings change a cruise bill](/cad-exchange-rate-cruise-cost/) if the trip is months away.
 4. Divide by nights and by places seen.
 5. If the totals land within 10–15% of each other, choose on travel style, not price.
 
