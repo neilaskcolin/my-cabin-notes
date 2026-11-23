@@ -48,7 +48,7 @@ Many groups split the credit across everyone's final payment rather than handing
 
 Often, but not always. A group rate is set the day the block opens and then protected, so it does not rise with demand the way everyday fares do. On a popular Alaska or school-holiday Caribbean week, that protection is worth real money.
 
-It does not fall automatically either. If the line runs a sale six months later, the public price can slip under your held rate. Whoever manages the block can usually ask the group desk to reprice, or let individual cabins take the promotion instead, right up to final payment. Someone has to watch for it.
+It does not fall automatically either. If the line runs a sale six months later, the public price can slip under your held rate. Whoever manages the block can usually ask the group desk to reprice, or let individual cabins take the promotion instead, right up to final payment. Someone has to watch for it. Once the block passes 15 cabins, [what a larger group can negotiate beyond the standard perks](/negotiate-cruise-group-rate/) goes further than the published grid.
 
 For a mixed Canadian and American group, settle which currency the block is priced in before the first deposit, because the gap between a CAD and a USD fare can be larger than the group discount. Our note on [booking in Canadian dollars or US dollars](/pay-for-cruise-cad-or-usd/) walks through the comparison.
 
