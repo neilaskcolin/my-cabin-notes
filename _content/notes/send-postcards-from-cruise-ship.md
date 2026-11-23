@@ -38,7 +38,7 @@ The stamp must come from the country whose mailbox the card goes into. Where you
 > **For Canadians:** the same Alaska card to a Canadian address is international mail from the US, so it needs the US international rate, around US$1.70. Write CANADA in capitals on the final line of the address and include the postal code.
 
 ## Where to post cards in popular cruise ports
-- **Alaska.** Juneau, Ketchikan and Skagway all have post offices within a short walk of the cruise docks, with international stamps at the counter. This is the most reliable mail on any North American itinerary.
+- **Alaska.** Juneau, Ketchikan and Skagway all have post offices within a short walk of the cruise docks, with international stamps at the counter. This is the most reliable mail on any North American itinerary; just check the counter's closing hour against the clock the ship is keeping, since [ship's time and local time can differ](/cruise-ship-time-zones/) in Alaska.
 - **Vancouver, Victoria, Halifax, Quebec City.** Canada Post boxes are everywhere downtown. On a round trip from Vancouver, you can post Canadian-stamped cards before boarding or the morning you return.
 - **Florida and Seattle.** Blue USPS boxes near the terminals; buy stamps before you arrive, since terminal shops rarely sell them.
 - **San Juan and St. Thomas.** US mail, US stamps, ordinary speed.

@@ -26,7 +26,7 @@ Your departure port is on the booking confirmation. Check it, then find the term
 
 Air Canada, WestJet and the US carriers fly Pearson to MIA nonstop several times a day in winter. Block time is around three hours and fifteen minutes southbound. Return economy fares at recent prices tend to sit in the C$300–550 range, climbing past that over Christmas, New Year and March break. Fares to Fort Lauderdale are usually similar, so price is rarely a reason to pick the wrong airport.
 
-Montreal and Ottawa travellers can connect through Toronto, but a nonstop from Trudeau also exists. If you want the price context for the whole trip, [how a cruise compares with a flight-plus-hotel holiday](/cruise-vs-land-vacation-cost/) sets out the numbers.
+Montreal and Ottawa travellers can connect through Toronto, but a nonstop from Trudeau also exists, and [which Florida port is easiest from Montreal](/montreal-to-caribbean-cruise-port/) weighs Fort Lauderdale against Miami for Quebec cruisers. If you want the price context for the whole trip, [how a cruise compares with a flight-plus-hotel holiday](/cruise-vs-land-vacation-cost/) sets out the numbers.
 
 ## Fly in the day before
 
