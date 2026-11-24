@@ -56,7 +56,7 @@ The terminal is a short drive from the airport, but nonstops from Montreal are t
 
 ## Should Montrealers fly to Florida the day before a cruise?
 
-Yes, and in January and February consider two days. Freezing rain, snow and de-icing queues are routine at Trudeau from December to March. A ship closes boarding roughly 60 to 90 minutes before departure and does not wait for a late flight.
+Yes, and in January and February consider two days. Freezing rain, snow and de-icing queues are routine at Trudeau from December to March, which is why [where to cruise in January from Canada](/where-to-cruise-in-january-from-canada/) spends as long on the flight as on the ship. A ship closes boarding roughly 60 to 90 minutes before departure and does not wait for a late flight.
 
 > **Watch out:** a connection is the real risk. If your only option routes through Toronto or a US hub, one late inbound aircraft can strand you overnight in the wrong city. On a connecting itinerary, price the cruise line's own air, which comes with an obligation to get you to the ship if the airline fails.
 
