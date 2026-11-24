@@ -51,7 +51,7 @@ A credit card with no foreign transaction fee is the single most useful piece of
 
 Avoid registering a debit card. Ships place rolling holds on the account as you spend, and those holds can tie up cash for days after you disembark. Some banks also layer their own fees on foreign debit transactions. A credit card absorbs the holds without touching your chequing balance.
 
-> **For Americans:** US cruisers skip the fare comparison entirely, but the onboard advice still applies. On a Mediterranean or Northern Europe sailing where the ship bills in euros, a no-foreign-fee card and a firm "charge me in euros" save the same 3–5%.
+> **For Americans:** US cruisers skip the fare comparison entirely, but the onboard advice still applies. On a Mediterranean or Northern Europe sailing where the ship bills in euros, a no-foreign-fee card and a firm "charge me in euros" save the same 3–5%. Norway adds a third currency ashore, the krone, which is one reason [a fjords cruise costs Canadians more than Alaska](/norway-fjords-cruise-cost-from-canada/).
 
 ## Cash ashore: do Canadians need US dollars?
 In Alaska, Hawaii and US Caribbean ports such as St. Thomas and San Juan, yes, it is the only currency. Across most of the Caribbean, the Bahamas and Mexican cruise ports, US dollars are accepted everywhere, often with change given in local currency. Bring small bills for tips, taxis and market stalls, and withdraw once from a bank-owned ATM rather than a standalone machine with its own fee. Europe means euros, kroner or pounds, though cards cover most of it.
