@@ -72,7 +72,7 @@ Two cabins mean two bookings, two cabin numbers and a few rules that a single su
 3. **Expect two onboard accounts.** Each cabin gets its own folio. Link both to one card at check-in so the kids' sodas and your coffees land in one place.
 4. **Compare gratuity rates.** Suite guests usually pay a higher daily rate per person. Two standard cabins pay the standard rate four times.
 5. **Ask about third and fourth guest pricing.** On some sailings it exists only for one cabin type, which changes the whole comparison.
-6. **Book the pair early.** Connecting cabins are a small fraction of any ship and families book them first. The same scarcity applies if you are part of a [group booking of eight or more cabins](/group-cruise-booking-8-cabins/) and want the connecting pairs held together.
+6. **Book the pair early.** Connecting cabins are a small fraction of any ship and families book them first. The same scarcity applies if you are part of a [group booking of eight or more cabins](/group-cruise-booking-8-cabins/) and want the connecting pairs held together; a big enough block can even make held connecting pairs one of [the terms you negotiate with the group desk](/negotiate-cruise-group-rate/).
 
 Paying for two cabins also doubles the currency question. The line will quote both in Canadian dollars if you book from Canada, and the note on [paying for a cruise in CAD or USD](/pay-for-cruise-cad-or-usd/) explains when that helps and when your own card does better.
 
