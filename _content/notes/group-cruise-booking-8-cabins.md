@@ -74,7 +74,7 @@ One person, or one travel agency, asks the line's group desk to hold a set of ca
 - **Norwegian:** US$50 a cabin within 60 days, plus the normal per-person deposit within a week of each family booking.
 - **Princess and MSC:** no deposit for the first 16 berths or cabins; larger groups pay a small per-person hold.
 
-Cabins nobody has claimed are recalled by the line at set review dates, without penalty. You are not buying eight cabins, you are reserving the right to fill them.
+Cabins nobody has claimed are recalled by the line at set review dates, without penalty. You are not buying eight cabins, you are reserving the right to fill them by [the group's recall and final payment dates](/group-cruise-deadlines/).
 
 > **Tip:** get every amenity, the free-fare ratio and the review dates into the group confirmation. A cocktail party promised on the phone has a way of not appearing on board.
 

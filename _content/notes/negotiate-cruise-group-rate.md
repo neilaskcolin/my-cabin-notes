@@ -77,7 +77,7 @@ Group fares are usually quoted in US dollars. Some lines will price a Canadian g
 
 ## What happens if the group shrinks after you sign?
 
-The contract sets dates by which unsold cabins go back to the line, typically 90 to 150 days before sailing depending on the line and cruise length. Miss a name deadline and the block shrinks on its own. Lose a couple of cabins and you can drop below the threshold for a free berth, which the line will then withdraw.
+The contract sets dates by which unsold cabins go back to the line, typically 90 to 150 days before sailing depending on the line and cruise length; [when final payment and the other group deadlines fall](/group-cruise-deadlines/) is worth reading before you sign. Miss a name deadline and the block shrinks on its own. Lose a couple of cabins and you can drop below the threshold for a free berth, which the line will then withdraw.
 
 Negotiate for this on day one: ask for the latest possible recall date, whether a late-named cabin can rejoin at the group fare if space remains, and what happens to amenities if the count falls.
 

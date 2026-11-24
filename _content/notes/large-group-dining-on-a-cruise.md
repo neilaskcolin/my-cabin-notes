@@ -42,7 +42,7 @@ Fixed seating wins because the waiters learn the allergies, the kids' names and 
 As soon as the group block exists; [how a block forms and what eight cabins unlock](/group-cruise-booking-8-cabins/) is its own note, and a private reception for the first night is one of [the extras a bigger group can negotiate](/negotiate-cruise-group-rate/) when the block is set up. Large tables are allocated first come, first served, and early seating fills months before sailing on holiday weeks.
 
 1. **Pick a seating time.** Early (around 5:30–6 pm) suits children and grandparents; late (around 8–8:30 pm) suits adults who want full port days. Times vary by ship.
-2. **Link every booking number.** Include anyone who booked before the group was formed. Unlinked cabins are the usual reason someone ends up at a table of strangers.
+2. **Link every booking number.** Include anyone who booked before the group was formed. Unlinked cabins are the usual reason someone ends up at a table of strangers, and a cabin that misses [the group's final payment deadline](/group-cruise-deadlines/) drops off the table request too.
 3. **Ask in writing for adjacent tables, one section, one waiter team.** Those exact words.
 4. **Submit dietary needs as one list** for the whole group, not 20 separate emails.
 5. **Reserve the celebration night now.** Private rooms and specialty slots for 20 go fast.
