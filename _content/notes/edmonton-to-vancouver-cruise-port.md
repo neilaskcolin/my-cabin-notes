@@ -43,7 +43,7 @@ At the Vancouver end you skip the taxi. The Canada Line runs from inside the YVR
 YEG sits about 30 kilometres south of downtown, so the trip to the airport is a real cost on a budget. Three ways to handle it:
 
 - **ETS Route 747.** The airport bus runs direct from Century Park Transit Centre to the terminal in about 24 minutes, seven days a week from roughly 4 am to half past midnight, every 30 to 60 minutes. The fare is a flat C$6 per person each way, payable with cash, Arc card or a tap of a credit card. For two people that is C$24 return against C$70 or more in taxis.
-- **Park and fly.** Off-site lots near Leduc and the airport's long-term parking both offer weekly rates. For a 9- or 10-day trip, compare the total against a return rideshare before assuming parking is cheaper.
+- **Park and fly.** Off-site lots near Leduc and the airport's long-term parking both offer weekly rates. For a 9- or 10-day trip, compare the total against a return rideshare before assuming parking is cheaper; the same sums for Calgarians are in [what parking at YYC costs for a cruise](/calgary-airport-parking-for-a-cruise/).
 - **A lift.** A drop-off beats everything, and the 747 works for the return if nobody is free when you land.
 
 ## Do discount airlines work for cruise travel?

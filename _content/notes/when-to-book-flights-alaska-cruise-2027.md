@@ -64,7 +64,7 @@ Sailings that start on a long weekend look convenient and cost the most to fly t
 
 ## Should you fly in the day before your Alaska cruise?
 
-Yes. Ships leave Canada Place in the late afternoon and boarding closes before that, so a same-morning flight has no margin for a cancelled connection or a May snowstorm in Calgary (it happens). The day before turns a disaster into a long evening.
+Yes. Ships leave Canada Place in the late afternoon and boarding closes before that, so a same-morning flight has no margin for a cancelled connection or a May snowstorm in Calgary (it happens). The day before turns a disaster into a long evening, and it adds one day to [the parking bill at Calgary airport](/calgary-airport-parking-for-a-cruise/), which is cheap insurance.
 
 The Canada Line SkyTrain runs from YVR to Waterfront Station, a few minutes' walk from the pier, in about 25 minutes for a transit fare. A downtown hotel is C$200–400 at recent summer prices and books out on long weekends, so reserve it when you buy the flights.
 
