@@ -30,7 +30,7 @@ Nonstop service changes by season and by year. The airlines above were flying or
 
 Air Canada is the year-round constant, with nonstops from Montréal-Trudeau to Fort Lauderdale, Miami and Orlando. Porter flies Montreal–Fort Lauderdale with its jet fleet. Air Transat dropped its Florida flying for summer 2026 and brings Fort Lauderdale back for winter 2026-27, with up to seven weekly flights from Montreal starting in mid-November, plus three a week from Quebec City.
 
-That gives Fort Lauderdale the deepest schedule from Quebec, which is why it wins. Miami and Orlando have nonstops, but fewer of them, so a cancelled flight has fewer same-day backups.
+That gives Fort Lauderdale the deepest schedule from Quebec, which is why it wins, and Ontario cruisers have even more choice on [the Toronto to Fort Lauderdale route](/toronto-to-fort-lauderdale-cruise/). Miami and Orlando have nonstops, but fewer of them, so a cancelled flight has fewer same-day backups.
 
 Fares swing hard with the calendar. Outside Christmas, New Year and the first two weeks of March, Air Canada was advertising Montreal–Miami one-ways from a little over C$200 at the time of writing; across the holidays and March break, expect to pay a good deal more each way, and book months out. [Flying Toronto to Miami for a cruise](/toronto-to-miami-cruise/) covers the same decisions from Ontario.
 

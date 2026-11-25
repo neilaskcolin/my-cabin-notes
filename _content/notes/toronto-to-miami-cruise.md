@@ -69,7 +69,7 @@ Your Canadian passport is all the paperwork you need, as [the ESTA question for 
 
 ## Miami or Fort Lauderdale: the decision
 
-If the ship sails from PortMiami, fly to MIA. The FLL fallback makes sense only when the Miami fare is far higher and you can stomach a longer, pricier transfer. If the ship sails from Port Everglades, fly to FLL and enjoy a transfer of about 15 minutes.
+If the ship sails from PortMiami, fly to MIA. The FLL fallback makes sense only when the Miami fare is far higher and you can stomach a longer, pricier transfer. If the ship sails from Port Everglades, fly to FLL and enjoy a transfer of about 15 minutes; [the Toronto to Fort Lauderdale planner](/toronto-to-fort-lauderdale-cruise/) covers that trip end to end.
 
 > **Quick math:** saving C$80 on a Fort Lauderdale flight, then paying US$90 (about C$125) for a taxi from FLL to PortMiami, costs you money and an hour. Compare the whole door-to-ship cost, not just the airfare.
 
