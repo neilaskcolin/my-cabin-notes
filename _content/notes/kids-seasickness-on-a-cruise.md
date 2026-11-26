@@ -77,7 +77,7 @@ Where you sail matters more than any tablet. Sheltered water with land on both s
 
 ## Will the kids club take a seasick child?
 
-A mildly queasy child is often better off in the club than moping in the cabin, because distraction works. A child who is vomiting is a different matter. Youth staff cannot tell seasickness from a stomach bug, and a stomach bug on a ship is treated seriously, so expect a call on the cabin phone or the ship's app asking you to collect them, and a request that they stay away until they have been symptom-free for a set number of hours. If the medical centre records it as gastro rather than motion sickness, the whole cabin may be asked to stay in for a period.
+A mildly queasy child is often better off in the club than moping in the cabin, because distraction works. Whoever registered the child, a parent or [grandparents cruising without the parents](/grandparents-cruise-with-grandkids/), is the person the staff will call. A child who is vomiting is a different matter. Youth staff cannot tell seasickness from a stomach bug, and a stomach bug on a ship is treated seriously, so expect a call on the cabin phone or the ship's app asking you to collect them, and a request that they stay away until they have been symptom-free for a set number of hours. If the medical centre records it as gastro rather than motion sickness, the whole cabin may be asked to stay in for a period.
 
 ## When to see the ship's doctor, and what it costs
 

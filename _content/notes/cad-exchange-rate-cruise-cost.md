@@ -13,7 +13,7 @@ faq3a: A USD charge refunded to a Canadian card converts back at the rate on the
 imgmotif: money, ship, calendar, document
 published: 2026-11-22
 ---
-A cruise bought from Canada is a US-dollar purchase spread over a year or more, and the exchange rate on each payment date decides the real price. The loonie has traded anywhere from about 1.20 to above 1.45 per US dollar within the past five years, which on a typical couple's trip is a swing of more than C$900. You cannot control the rate, but you can control how much of your bill is still exposed to it.
+A cruise bought from Canada is a US-dollar purchase spread over a year or more, and the exchange rate on each payment date decides the real price. The loonie has traded anywhere from about 1.20 to above 1.45 per US dollar within the past five years, which on a typical couple's trip is a swing of more than C$900. You cannot control the rate, but you can control how much of your bill is still exposed to it, and on a Europe trip the euro side matters too: [a Mediterranean cruise budget from Canada](/mediterranean-cruise-cost-from-canada/) shows how the hotel and shore days add a second currency.
 
 ## How much does the exchange rate really change a cruise price?
 
