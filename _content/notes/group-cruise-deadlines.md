@@ -52,7 +52,7 @@ How many cabins you need for the block to count as a group, and what the free be
 
 A block is borrowed inventory, and the line calls it in on a schedule. Celebrity recalls unsold group cabins 150 days before sailing on cruises of nine nights or more and 120 days on shorter ones. Holland America reviews group space from 150 days out. Carnival recalls after its second deposit date, around 120 to 150 days before departure. Norwegian releases all remaining unconfirmed space at 120 days. Royal Caribbean and Princess review blocks in stages, and any line can take space back sooner if the ship is filling.
 
-Recall is not a penalty; it only affects cabins nobody has confirmed. The problem is the cousin who said "count me in" and never paid a deposit. Their cabin goes back to the line at recall, and on a popular sailing it is resold within days at a higher price. Hold a cabin only for people who have paid the cabin deposit, and treat the recall date as a hard deadline, because it is.
+Recall is not a penalty; it only affects cabins nobody has confirmed. The problem is the cousin who said "count me in" and never paid a deposit. Their cabin goes back to the line at recall, and on a popular sailing it is resold within days at a higher price, because [a cruise fare is only locked once a deposit is paid](/cruise-price-go-up-after-booking/). Hold a cabin only for people who have paid the cabin deposit, and treat the recall date as a hard deadline, because it is.
 
 ## When do names have to be on a group cruise booking?
 

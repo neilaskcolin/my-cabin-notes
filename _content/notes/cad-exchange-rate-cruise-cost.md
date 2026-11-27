@@ -47,7 +47,7 @@ By the time you sail, a careful planner has fixed items 1 to 3 and only the onbo
 
 ## What does booking in Canadian dollars actually fix?
 
-A CAD quote uses the line's own exchange rate on the day you book, with a cushion the line adds to protect itself. From that moment the deposit, the final balance and anything you add in CAD are fixed numbers. If the loonie falls 6 cents between booking and final payment, you pay nothing extra. If it rises 6 cents, you miss the saving.
+A CAD quote uses the line's own exchange rate on the day you book, with a cushion the line adds to protect itself. From that moment the deposit, the final balance and anything you add in CAD are fixed numbers. If the loonie falls 6 cents between booking and final payment, you pay nothing extra. If it rises 6 cents, you miss the saving. Either way the fare is locked at the deposit; the items that can still move are listed in [can cruise prices go up after booking](/cruise-price-go-up-after-booking/).
 
 That trade is worth making when the fare is a stretch and certainty matters more than the chance of a small win. The day-of-booking comparison that tells you whether the CAD or USD quote is cheaper is worked through in [booking a cruise in Canadian dollars](/pay-for-cruise-cad-or-usd/).
 
