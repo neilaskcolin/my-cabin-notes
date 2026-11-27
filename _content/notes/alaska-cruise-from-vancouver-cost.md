@@ -62,7 +62,7 @@ With no flights to pay for, local couples tend to upgrade in one of two places.
 
 The balcony premium of roughly US$950–1,800 per couple (C$1,300–2,500) is easier to swallow when nothing else is added to the fare. Alaska rewards it more than any Caribbean itinerary, provided you pick the right one: [which side, deck and cabin number](/best-cabin-and-side-for-alaska-cruise/) decides whether the premium buys a glacier or the roof of a lifeboat.
 
-The other upgrade is a single memorable excursion: whale watching from Juneau at about US$150–250 per person, or glacier flightseeing from US$400. Walk Ketchikan and Skagway on your own to pay for it. [How many shore excursions to book](/how-many-shore-excursions/) explains why one or two is plenty.
+The other upgrade is a single memorable excursion: whale watching from Juneau at about US$150–250 per person, or glacier flightseeing from US$400. Walk Ketchikan and Skagway on your own to pay for it. [How many shore excursions to book](/how-many-shore-excursions/) explains why one or two is plenty, and [the wheelchair-accessible Alaska guide](/wheelchair-accessible-alaska-cruise/) lists the adapted versions for anyone on wheels.
 
 ## Easy ways to trim the bill
 - Sail in May or September.
