@@ -57,7 +57,7 @@ Add up only the perks you would use. If the total comes close to the price gap, 
 
 Teenagers and adult children want a door between them and their parents, and a second bathroom stops the 7 a.m. queue. Light sleepers and early risers do better in separate rooms, and a connecting door is also the line of defence when one child is up at night; the note on [kids and seasickness on a cruise](/kids-seasickness-on-a-cruise/) covers the cabin choices that help when the sea gets lively.
 
-Grandparents travelling with grandchildren almost always prefer the pair. Each generation gets its own space and the connecting door turns the two cabins into one apartment when everyone wants to be together.
+Grandparents travelling with grandchildren almost always prefer the pair. Each generation gets its own space and the connecting door turns the two cabins into one apartment when everyone wants to be together, and it satisfies the lines' rule that an adult is booked with the children, which [grandparents cruising with grandkids without the parents](/grandparents-cruise-with-grandkids/) sets out line by line.
 
 The suite wins in a narrower set of cases: a promotion that shrinks the gap to a few hundred dollars, children young enough that a separate room would go unused, or a family that would happily pay for the dining or drinks the suite includes.
 

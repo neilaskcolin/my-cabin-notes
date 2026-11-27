@@ -29,7 +29,7 @@ A land trip has none of those, but it has every breakfast, lunch and dinner, tra
 > **Quick math:** gratuities alone add about US$225–280 for a couple on a 7-night cruise, roughly C$310–385. Build that in from the start rather than discovering it on the final statement.
 
 ## A worked example: one week in the Mediterranean
-Take a couple from Toronto or New York at recent summer prices, leaving out the transatlantic flights, which cost about the same either way. Option one is a 7-night round trip from Barcelona in an inside cabin, calling at five or six ports. Option two is seven nights split between Barcelona, Florence and Rome in mid-range hotels, travelling by train.
+Take a couple from Toronto or New York at recent summer prices, leaving out the transatlantic flights, which cost about the same either way (they are back in the picture in [what a Mediterranean cruise costs from Canada all-in](/mediterranean-cruise-cost-from-canada/)). Option one is a 7-night round trip from Barcelona in an inside cabin, calling at five or six ports. Option two is seven nights split between Barcelona, Florence and Rome in mid-range hotels, travelling by train.
 
 | Per couple | 7-night cruise | Three cities by train |
 |---|---|---|

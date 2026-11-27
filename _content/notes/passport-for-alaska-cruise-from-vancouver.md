@@ -64,7 +64,7 @@ Imagine the three things that go wrong on an Alaska cruise: you miss the ship in
 Each child needs their own document; nobody travels on a parent's passport. Beyond that:
 
 1. A Canadian child 15 or under can enter the US by sea on a birth certificate, but only if your line accepts it, and it still leaves the flight-home gap.
-2. A child travelling without both parents, which includes a trip with grandparents or one parent after a separation, should carry a consent letter signed by the absent parent or parents. The Government of Canada recommends it, and border officers in both directions ask for it more often than people expect.
+2. A child travelling without both parents, which includes a trip with grandparents or one parent after a separation, should carry a consent letter signed by the absent parent or parents. The Government of Canada recommends it, and border officers ask for it more often than people expect; [grandparents cruising with grandkids without the parents](/grandparents-cruise-with-grandkids/) covers which lines insist on a notarised version.
 3. Blended families with different surnames should carry something linking the adults to the children, such as the long-form birth certificate, to answer the question before it is asked.
 
 ## Permanent residents, dual citizens and visitors

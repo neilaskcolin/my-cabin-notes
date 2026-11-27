@@ -58,7 +58,7 @@ The coastal voyages between Bergen and Kirkenes are a different product: small s
 
 ## Is a Norway cruise more expensive than Alaska for Canadians?
 
-For most Canadians, yes, and the gap depends on where you live. Alaska from Vancouver is a short hop for anyone in the West; Norway is long-haul for everyone. A Toronto or Montreal couple already faces a five-hour flight to Vancouver, so for them the gap is smaller than they expect.
+For most Canadians, yes, and the gap depends on where you live. Alaska from Vancouver is a short hop for anyone in the West; Norway is long-haul for everyone, as is [a Mediterranean cruise from Canada](/mediterranean-cruise-cost-from-canada/), which shares the flight cost but has cheaper ports. A Toronto or Montreal couple already faces a five-hour flight to Vancouver, so for them the gap is smaller than they expect.
 
 | Per couple, 7 nights, inside cabin | Norwegian fjords | Alaska from Vancouver |
 |---|---|---|
