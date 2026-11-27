@@ -29,7 +29,7 @@ That cushion is why a CAD fare can be above, or below, what your own bank would 
 > **Example:** a 7-night Caribbean balcony for two is quoted at US$2,400 or C$3,360. At a rate of 1.38, the USD fare is C$3,312. With a 2.5% card fee it rises to about C$3,395, so the CAD quote wins by roughly C$35. With a no-fee card, the USD route wins by about C$48. Margins this thin flip week to week.
 
 ### What a CAD booking buys you besides price
-A Canadian-dollar booking locks the exchange rate on the day you book. Pay a deposit now and the balance in four months, and the balance costs exactly what the confirmation says. A USD booking converts each payment at that day's rate, so a weaker loonie by final payment can add a few percent to a fare you thought was settled.
+A Canadian-dollar booking locks the exchange rate on the day you book. Pay a deposit now and the balance in four months, and the balance costs exactly what the confirmation says. A USD booking converts each payment at that day's rate, so a weaker loonie by final payment can add a few percent to a fare you thought was settled. The fare itself cannot rise in either currency; [what can still change after booking](/cruise-price-go-up-after-booking/) is the taxes, fuel and gratuities around it.
 
 For anyone budgeting a trip to the dollar, that certainty can matter more than a small saving. The same logic applies to prepaying gratuities and drink packages in CAD where the line allows it, and to [a group block of eight or more cabins](/group-cruise-booking-8-cabins/), which is held in one currency for everyone who books into it.
 

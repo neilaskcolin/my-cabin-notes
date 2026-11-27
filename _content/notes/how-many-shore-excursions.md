@@ -59,7 +59,7 @@ The sensible split: book the ship's tour for anything far from the pier, in a po
 - **Families with young children:** one booked activity per week, planned around nap times, with beach or pool days in between. Kids remember the ship's waterslide more than the fourth ruin.
 - **Energetic sightseers:** four tours on a port-heavy week is fine if you accept the early mornings and book one easy half-day among them.
 - **Relaxers and repeat cruisers:** one tour, or none. The quiet ship on a port day is the best spa and pool day of the week.
-- **Travellers with mobility, hearing or vision needs:** tour descriptions list walking distance and terrain, and the ship's accessibility team will tell you which operators accommodate you. Smaller independent groups often suit better; [cruising with hearing or vision loss](/cruising-with-hearing-or-vision-loss/) covers what to ask.
+- **Travellers with mobility, hearing or vision needs:** tour descriptions list walking distance and terrain, and the ship's accessibility team will tell you which operators accommodate you. Smaller independent groups often suit better; [cruising with hearing or vision loss](/cruising-with-hearing-or-vision-loss/) covers what to ask, and for Alaska [the wheelchair-accessible Alaska cruise guide](/wheelchair-accessible-alaska-cruise/) names the adapted tours that load at the dock.
 
 Whatever the count, photograph thoughtfully in markets and villages, since the manners in [cruise photo etiquette](/cruise-ship-photo-etiquette/) apply ashore as much as on deck.
 

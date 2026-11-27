@@ -67,7 +67,7 @@ The ship is the easy part. Every country on the itinerary applies its own animal
 5. Request terminal assistance for embarkation, whether at Canada Place in Vancouver or a Florida or Texas port.
 6. On boarding day, test the kit and visit guest services about anything missing.
 
-Lines expect guests who need personal care to travel with a companion, since crew assist with the ship but not with personal tasks. If you are travelling with a group, the same accessibility team can note seating needs for dinner, which pairs well with the advice in [arranging dining for a big party](/large-group-dining-on-a-cruise/).
+Lines expect guests who need personal care to travel with a companion, since crew assist with the ship but not with personal tasks. The same desk books the wheelchair cabins; [doing Alaska in a wheelchair](/wheelchair-accessible-alaska-cruise/) covers door widths, tender limits and which ports dock. If you are travelling with a group, the same accessibility team can note seating needs for dinner, which pairs well with the advice in [arranging dining for a big party](/large-group-dining-on-a-cruise/).
 
 | Need | Who to ask | When |
 |---|---|---|
