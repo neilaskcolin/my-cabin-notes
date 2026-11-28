@@ -95,4 +95,4 @@ The Alaska budget in [what an Alaska cruise from Vancouver really costs](/alaska
 
 ## Three rules for a moving loonie
 
-Fix what you can: book the fare in CAD when certainty matters, and prepay gratuities and packages in CAD where the line allows it. Keep the floating part small, and pay it with a no-foreign-fee card. Budget a 5% buffer on the unpaid USD, then let the rate do what it likes.
+Fix what you can: book the fare in CAD when certainty matters, and prepay packages and [gratuities in CAD](/cruise-gratuities-for-canadians/) where the line allows it. Keep the floating part small, and pay it with a no-foreign-fee card. Budget a 5% buffer on the unpaid USD, then let the rate do what it likes.
