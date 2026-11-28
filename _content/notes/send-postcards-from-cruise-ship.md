@@ -1,7 +1,7 @@
-title: Mailing Postcards From a Cruise: Stamps, Ports, Timing
+title: Can You Send Postcards From a Cruise Ship? How Mail Works
 slug: send-postcards-from-cruise-ship
 category: onboard
-description: No postbox at sea. How cruise mail really works, which country's stamp you need, where to post in Alaska and the Caribbean, and why cards arrive after you do.
+description: Yes, but the ship only carries it ashore. Which country's stamp you need, which ports to post in, and why the card lands a week or two after you do.
 answer: You can, but the ship is not a post office. Postcards go ashore at a port and enter that country's mail, so they need that country's stamp. Hand them to guest services, who send them from an upcoming port, or post them yourself ashore. Allow one to three weeks from Alaska or the US and longer from the Caribbean.
 faq1q: Does a cruise ship have a mailbox?
 faq1a: Not in the sense of a box emptied daily at sea. Most ships let you leave stamped mail at guest services, which goes ashore in a bag at the next suitable port. Some ships sell stamps for that port; many do not, so ask on day one.

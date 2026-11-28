@@ -1,7 +1,7 @@
-title: Ship's Time Explained: Clocks, Ports and All-Aboard
+title: Why Is Ship Time Different? Cruise Time Zones Explained
 slug: cruise-ship-time-zones
 category: onboard
-description: Ships change clocks an hour at a time overnight, or keep one "ship's time" all week. How to know which, what it means for all-aboard, and the phone fix.
+description: Why the ship's clock can differ from the port's, how cruise ships change time zones overnight, and the one habit that stops you missing all-aboard.
 answer: Ships crossing time zones usually move the clocks by one hour overnight, announced the evening before. On itineraries that hop zones daily, many ships keep a single ship's time for the whole cruise even when the port clock disagrees. All-aboard is always in ship's time, so set a watch to it and stop trusting your phone.
 faq1q: What is ship's time on a cruise?
 faq1a: It is the official clock on board, set by the bridge and shown in the daily program and app. It may match local time in port or sit an hour or two off. Every onboard event and every all-aboard deadline runs on ship's time, whatever the clock tower ashore says.

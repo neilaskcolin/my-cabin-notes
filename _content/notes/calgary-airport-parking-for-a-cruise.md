@@ -82,7 +82,7 @@ The same day you book the flights, so you never pay a drive-up rate at the gate.
 
 ## Does parking beat driving to the ship from Calgary?
 
-For Vancouver sailings, the real question is whether to fly at all. Driving to Canada Place is a long day each way through the mountains, plus port parking at C$25–30 a day, which [the Edmonton-to-Vancouver comparison](/edmonton-to-vancouver-cruise-port/) works through in detail; the arithmetic is similar from Calgary. For two people, a flight plus nine days in YYC's Economy lot nearly always comes in under fuel, hotels and port parking. For four in one vehicle, driving can win.
+For Vancouver sailings, the real question is whether to fly at all. Driving to Canada Place is a long day each way through the mountains, plus port parking at C$25–30 a day, which [the Edmonton-to-Vancouver comparison](/edmonton-to-vancouver-cruise-port/) works through in detail; the arithmetic is similar from Calgary. For two people, a flight plus nine days in YYC's Economy lot nearly always comes in under fuel, hotels and port parking. For four in one vehicle, driving can win. The fly-or-drive table and the whole-trip total are in [what an Alaska cruise costs from Calgary](/calgary-to-alaska-cruise-cost/).
 
 For Florida sailings there is no driving option worth discussing, so parking at YYC or riding to it is the whole decision. It is a small line next to [what the Alaska cruise itself costs](/alaska-cruise-from-vancouver-cost/), but one of the few you fully control.
 

@@ -54,7 +54,7 @@ What has actually happened: oil crossed US$100 in March 2026 after the Iran conf
 
 ## Can gratuities go up after I book?
 
-Yes, unless you have prepaid them. A new rate applies to anyone paying on board, whenever the cruise was booked, and 2026 was a busy year:
+Yes, unless you have prepaid them. A new rate applies to anyone paying on board, whenever the cruise was booked, and 2026 was a busy year ([what each line charges, and how Canadians should prepay](/cruise-gratuities-for-canadians/) has the current rates):
 
 | Line | Change in 2026 | From |
 |---|---|---|
